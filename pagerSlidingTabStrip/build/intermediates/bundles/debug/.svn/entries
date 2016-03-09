@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://billypc/svn/googlePlay_16/trunk/googlePlay_16/pagerSlidingTabStrip/build/intermediates/bundles/debug
+https://billypc/svn/googlePlay_16
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4ffc453c-68da-904c-aeb1-dfff95c6a4ff
+
+AndroidManifest.xml
+file
+
+
+
+add
+
+R.txt
+file
+
+
+
+add
+
+aapt
+dir
+
+
+
+add
+
+aidl
+dir
+
+
+
+add
+
+assets
+dir
+
+
+
+add
+
+classes.jar
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+res
+dir
+
+
+
+add
+

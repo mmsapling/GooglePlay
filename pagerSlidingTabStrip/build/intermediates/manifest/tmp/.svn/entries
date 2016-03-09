@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://billypc/svn/googlePlay_16/trunk/googlePlay_16/pagerSlidingTabStrip/build/intermediates/manifest/tmp
+https://billypc/svn/googlePlay_16
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4ffc453c-68da-904c-aeb1-dfff95c6a4ff
+
+manifestMerger1008433443819731724.xml
+file
+
+
+
+add
+
+manifestMerger7768330785186227466.xml
+file
+
+
+
+add
+
+manifestMerger7956417507769214907.xml
+file
+
+
+
+add
+
